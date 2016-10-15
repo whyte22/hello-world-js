@@ -1,0 +1,5 @@
+
+
+{
+	display: ("Hello console");
+}
